@@ -1,0 +1,7 @@
+Las interfaces son la vista amigable por la cual nos podemos comunicar con la computadora, las computadoras
+hablan un lenguaje binario, y para poder comunicarnos con ellas necesitamos una interfaz, tenemos la interfaz
+de lineas de comandos con comandos específicos, pero no todos los usuarios lo conocen, por lo que se
+desarrollaron diferentes tipos de interfaces de comunicacion.
+La interfaz grafica es mucho mas amigable y facil de utilizar para todo usuario, no necesita conocer el lenguaje
+de comandos.
+Tambien hay interfaces nativas que vienen incluidas en el dispositivo desde fabrica

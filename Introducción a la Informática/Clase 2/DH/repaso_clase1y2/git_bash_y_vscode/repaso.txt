@@ -1,0 +1,2 @@
+Git bash es una terminal que permite darle comandos directos al sistema operativo, como ventaja es muy liviana, pero hay que conocer los comandos y no es tan intuitiva como una interfaz grafica.
+VSCode es un entorno de desarrollo integrado (IDE) desarrollado por microsoft, es un conjunto de herramientas que nos facilita el desarrollo de nuestros programas y aplicaciones

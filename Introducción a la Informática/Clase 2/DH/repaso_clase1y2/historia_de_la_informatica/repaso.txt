@@ -1,0 +1,6 @@
+La informatica comienza mucho antes de lo que se cree, con ab√acos y algoritmos de calculo,
+se crearon a lo largo de la historia maquinas de calculo programables hasta que en 1941 se creo la primera
+completamente programable.
+La primera computadora se llam√o ENIAC y era manejada por un grupo de mujere, se creo en 1946 en la 
+universidad de Pensilvania.
+Luego de esto muchos cambios vertiginosos sucedieron para que estemos en la era de la informatica
